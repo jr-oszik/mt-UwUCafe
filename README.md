@@ -48,6 +48,8 @@ https://youtu.be/xruCsYASgBQ
 	["milkshake-chocolate"] = {["name"] = "milkshake-chocolate", 	    ["label"] = "Milkshake de chocolate", 	["weight"] = 1000, 		["type"] = "item", 			["image"] = "mschocolate.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
 ```
 
+# Drag and drop images form mt-UwUCafe/images to qb-inventory/html/images.
+
 # Add to qb-core/shared/jobs.lua
 ```
     ['uwu'] = {
