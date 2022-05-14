@@ -1,5 +1,5 @@
 # mt-UwUCafe
-UwU Cafe job for Gabz UwU Cat Cafe script for QBCore
+UwU Cafe job for Gabz UwU Cat Cafe map for QBCore
 
 # Privew
 https://youtu.be/xruCsYASgBQ
